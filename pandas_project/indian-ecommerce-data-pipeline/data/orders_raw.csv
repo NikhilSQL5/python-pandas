@@ -1,0 +1,11 @@
+order_id,customer_name,city,category,product,price,quantity,order_date,payment_method
+1001,Rahul Sharma,Mumbai,Electronics,Mobile Phone,20000,1,2024-01-05,UPI
+1002,Priya Singh,Delhi,Fashion,Jeans,2500,2,2024-01-07,Credit Card
+1003,Amit Patel,Ahmedabad,Electronics,Laptop,55000,1,2024-01-08,Net Banking
+1004,Neha Gupta,Pune,Home,Kettle,1500,3,2024-01-09,Cash on Delivery
+1005,Raj Verma,Bangalore,Fashion,T-shirt,800,5,2024-01-10,UPI
+1006,Anjali Mehta,Mumbai,Electronics,Headphones,3000,2,2024-01-10,Credit Card
+1007,Suresh Iyer,Chennai,Home,Microwave,12000,1,2024-01-12,UPI
+1008,Kavita Nair,Kochi,Fashion,Saree,5000,1,2024-01-14,Debit Card
+1009,Vikram Singh,Delhi,Electronics,Tablet,25000,1,2024-01-15,Net Banking
+1010,Ritu Kapoor,Mumbai,Home,Air Fryer,9000,1,2024-01-16,Credit Card
